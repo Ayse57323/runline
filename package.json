@@ -1,0 +1,10 @@
+{
+  "name": "runline",
+  "version": "0.1.0",
+  "description": "\u26a1 Code mode for agents",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
