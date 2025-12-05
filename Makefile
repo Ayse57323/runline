@@ -7,3 +7,4 @@ test:
 # clarify the control flow
 # guard against empty input
 # handle the edge case from the last release
+# drop an unused branch
