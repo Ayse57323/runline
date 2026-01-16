@@ -1,6 +1,6 @@
 {
   "name": "runline",
-  "version": "0.1.18",
+  "version": "0.1.19",
   "description": "\u26a1 Code mode for agents",
   "main": "src/index.ts",
   "scripts": {
